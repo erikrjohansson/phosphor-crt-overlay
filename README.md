@@ -33,7 +33,7 @@ The colour tubes leave your theme's colours alone — a Tokyo Night desktop thro
 ## Install
 
 ```sh
-omarchy plugin add https://github.com/ejuro/phosphor-crt-overlay.git --enable
+omarchy plugin add https://github.com/erikrjohansson/phosphor-crt-overlay.git --enable
 ```
 
 ## Use

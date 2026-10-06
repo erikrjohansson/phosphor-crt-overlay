@@ -3,7 +3,7 @@
   "id": "io.github.ejuro.phosphor",
   "name": "Phosphor",
   "version": "1.0.0",
-  "author": "ejuro",
+  "author": "erikrjohansson",
   "license": "MIT",
   "description": "A virtual CRT for your desktop: scanlines, phosphor mask, bloom and a period bezel — independent of your theme.",
   "kinds": [
